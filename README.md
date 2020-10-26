@@ -1,21 +1,33 @@
-# politica_desarrollo_seguro_oas
+# seguridad_calidad_oas
 
-El propósito de esta política es garantizar la seguridad de la información como eje guial del ciclo de vida de los sistemas de información institucionales, el cual incluye las fases de obtención/adquisición, desarrollo y mantenimiento de software y sistemas. Esta política considera un conjunto de reglas y buenas prácticas orientadas a proteger y mitigar el uso inapropiado de la información, por parte de los funcionarios institucionales o de personal externo a la institución.
+Definición ...
 
-
-- [Definición]()
 - [Documento]()
 
-## Procedimientos
+## Contenido
 
 ### Aseguramiento de la Calidad (QA)
 
-> #### [Pruebas Funcionales]()
+> #### Pruebas Funcionales
+- [Prueba de componentes](qa.md)
+- [Pruebas de integración](qa.md)
+- [Pruebas de regresión](qa.md)
+- [Prueba de cordura](qa.md)
+- [Pruebas de aceptación](qa.md)
+
+> #### Pruebas No Funcionales
+- [Pruebas Unitarias en API CRUD](qa.md)
+- [Pruebas Unitarias en API CRUD](qa.md)
+
+### Seguridad Informática
+
+> #### Pruebas No Funcionales
 - [Pruebas Unitarias en API CRUD](politica_desarrollo_seguro_oas.md)
 
-
-> #### [Pruebas No Funcionales]()
+> #### Pruebas No Funcionales
 - [Pruebas Unitarias en API CRUD](politica_desarrollo_seguro_oas.md)
+
+> #### Pruebas No Funcionales
 - [Pruebas Unitarias en API CRUD](politica_desarrollo_seguro_oas.md)
 
 ### Devops

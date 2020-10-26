@@ -9,11 +9,11 @@ Definición ...
 ### Aseguramiento de la Calidad (QA)
 
 > #### Pruebas Funcionales
-- [Prueba de componentes](qa.md)
-- [Pruebas de integración](qa.md)
-- [Pruebas de regresión](qa.md)
-- [Prueba de cordura](qa.md)
-- [Pruebas de aceptación](qa.md)
+- [Prueba de componentes](qa.md#prueba-de-componentes)
+- [Pruebas de integración](qa.md#pruebas-de-integración)
+- [Pruebas de regresión](qa.md#pruebas-de-regresión)
+- [Prueba de cordura](qa.md#prueba-de-cordura)
+- [Pruebas de aceptación](qa.md#pruebas-de-aceptación)
 
 > #### Pruebas No Funcionales
 - [Pruebas Unitarias en API CRUD](qa.md)

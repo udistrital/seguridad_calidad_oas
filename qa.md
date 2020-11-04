@@ -16,10 +16,10 @@ El objetivo de las pruebas de regresión es encontrar errores que puedan haber s
 
 ### Prueba de cordura
 Si tienes una compilación con modificaciones menores, en vez de ejecutar las pruebas de regresión, realizamos una prueba de cordura.   
-Con ella podemos determinar que las modificaciones realmente hayan solucionado los problemas. Y que dichas correcciones no hayan generado ningún problema. Usualmente estas pruebas son subpruebas de la de ‘Regresión’  ya que están relacionadas con los cambios realizados en el producto. No confundas estas las pruebas de humo con las de cordura por una simples razones:
+Con ella podemos determinar que las modificaciones realmente hayan solucionado los problemas. Y que dichas correcciones no hayan generado ningún problema. Usualmente estas pruebas son subpruebas de la de ‘Regresión’  ya que están relacionadas con los cambios realizados en el producto.
 
 ### Pruebas de aceptación
-Cuando el software o el componente desarrollado se encuentra en una versión estable, se somete a la validación funcional por el  equipo de QA o el mismo cliente los cual verifica que el requerimientos o historia de usuario realiza lo que se especificó.
+Cuando el software o el componente desarrollado se encuentra en una versión estable, se somete a la validación funcional por el  Equipo de QA/Equipo de analistas/Equipo de requerimientos o el mismo cliente los cual verifica que el requerimientos o historia de usuario exista y realice lo que se especificó.
 
 ## Tomado de:
 [Tipos de pruebas funcionales para el aseguramiento de la calidad](https://trycore.co/transformacion-digital/tipos-de-pruebas-funcionales/)

@@ -26,15 +26,11 @@ Definición ...
 
 ### Seguridad Informática
 
-> #### Pruebas No Funcionales
-- [Pruebas Unitarias en API CRUD](politica_desarrollo_seguro_oas.md)
+> #### Evaluacion de vulnerabilidades
+- [Evaluacion de vulnerabilidades](seguridad.md)
+- [Análisis de codigo estático](seguridad.md)
 
-> #### Pruebas No Funcionales
-- [Pruebas Unitarias en API CRUD](politica_desarrollo_seguro_oas.md)
-
-> #### Pruebas No Funcionales
-- [Pruebas Unitarias en API CRUD](politica_desarrollo_seguro_oas.md)
-
-### Devops
-
-- [XX](politica_desarrollo_seguro_oas.md)
+> #### Pentesting (Penetration Testing)
+- [Que es el Pentesting](seguridad.md)
+- [Fases de un Pentesting](seguridad.md)
+- [Por qué Realizar Pentesting](seguridad.md)

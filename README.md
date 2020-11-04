@@ -16,8 +16,8 @@ Definición ...
 - [Pruebas de aceptación](qa.md#pruebas-de-aceptación)
 
 > #### Pruebas No Funcionales
-- [Pruebas Unitarias en API CRUD](qa.md)
-- [Pruebas Unitarias en API CRUD](qa.md)
+- [Pruebas de Carga](qa_no_funcional.md)
+- [Pruebas de estrés](qa_no_funcional.md)
 
 ### Seguridad Informática
 

@@ -16,8 +16,11 @@ Definición ...
 - [Pruebas de aceptación](qa.md#pruebas-de-aceptación)
 
 > #### Pruebas No Funcionales
-- [Pruebas de Carga](qa_no_funcional.md)
+- [Pruebas de carga](qa_no_funcional.md)
 - [Pruebas de estrés](qa_no_funcional.md)
+- [Pruebas de volumen](qa_no_funcional.md)
+- [Pruebas de configuración](qa_no_funcional.md)
+- [Pruebas de seguridad](qa_no_funcional.md)
 
 ### Seguridad Informática
 

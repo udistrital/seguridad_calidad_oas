@@ -4,6 +4,15 @@ En esta sección se encuentran los lineamientos que todos los desarrollos de sof
 ## Pruebas Funcionales
 Busca ejecutar, revisar y retroalimentar el comportameinto previamente diseñado en el aplicacito.
 
+### Pruebas unitarias
+Las pruebas unitarias son las que aseguran que cada línea del código desarrollado en un componente brinde los resultados adecuados.
+Se  desarrollan pruebas que validen las reglas del negocio, los perfiles y permisos, funciones y cálculos específicos o controles de entrada en formularios.  
+
+
+### Prueba de humo
+Las pruebas de humo se realizan para verificar si las funcionalidades más significativas de la aplicación funcionan o no. De forma que lo más básico del software se ejecute de forma correcta con pruebas sencillas y rápidas. Una prueba de humo esencial es la validación que los EndPoint a consumir estén activos.
+
+
 ### Prueba de componentes
 Este tipo de pruebas se ejecutan de forma independiente o separada, el alcance de la prueba está limitado única y exclusivamente a un requerimiento pequeño  o historia de usuario o módulo en particular “el componente específico”; para comprobar que el resultado sea el requerido.
 

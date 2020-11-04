@@ -9,10 +9,12 @@ Definición ...
 ### Aseguramiento de la Calidad (QA)
 
 > #### Pruebas Funcionales
-- [Prueba de componentes](qa.md#prueba-de-componentes)
+- [Pruebas unitarias](qa.md#prueba-de-componentes)
+- [Pruebas de humo](qa.md#prueba-de-componentes)
+- [Pruebas de componentes](qa.md#prueba-de-componentes)
 - [Pruebas de integración](qa.md#pruebas-de-integración)
 - [Pruebas de regresión](qa.md#pruebas-de-regresión)
-- [Prueba de cordura](qa.md#prueba-de-cordura)
+- [Pruebas de cordura](qa.md#prueba-de-cordura)
 - [Pruebas de aceptación](qa.md#pruebas-de-aceptación)
 
 > #### Pruebas No Funcionales

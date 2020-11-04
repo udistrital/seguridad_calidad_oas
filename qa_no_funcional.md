@@ -27,7 +27,7 @@ Es muy común que cuando las aplicaciones son nuevas, los filtros y las búsqued
 Se realizan para validar que efectos en el desempeño tienen ciertos cambios en la configuración; también llamado tuneo o tunning, en la que a nivel tanto de infraestructura como de aplicación o agentes externos de seguridad entre otros  se proporcionan características al sistema y de acuerdo a cada configuración la aplicación presenta un comportamiento.
 
 ### Pruebas de seguridad (:heavy_check_mark:)
-Consiste en probar los atributos o características de seguridad del sistema, si es un sistema seguro o no, si puede ser vulnerado, si existe control de acceso por medio de cuentas de usuario, si pueden ser vulnerados estos accesos.
+Consiste en probar los atributos o características de seguridad del sistema, si es un sistema seguro o no, si puede ser vulnerado, si existe control de acceso por medio de cuentas de usuario, si pueden ser vulnerados estos accesos.   
 Se abordará un capitulo especifico en este tema.
 
 

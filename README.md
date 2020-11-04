@@ -18,11 +18,11 @@ Definición ...
 - [Pruebas de aceptación](qa.md#pruebas-de-aceptación)
 
 > #### Pruebas No Funcionales
-- [Pruebas de carga](qa_no_funcional.md)
-- [Pruebas de estrés](qa_no_funcional.md)
+- [Pruebas de carga (:heavy_check_mark:)](qa_no_funcional.md)
+- [Pruebas de estrés (:heavy_check_mark:)](qa_no_funcional.md)
 - [Pruebas de volumen](qa_no_funcional.md)
-- [Pruebas de configuración](qa_no_funcional.md)
-- [Pruebas de seguridad](qa_no_funcional.md)
+- [Pruebas de configuración (:heavy_check_mark:)](qa_no_funcional.md)
+- [Pruebas de seguridad (:heavy_check_mark:)](qa_no_funcional.md)
 
 ### Seguridad Informática
 

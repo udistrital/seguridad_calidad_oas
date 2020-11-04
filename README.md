@@ -15,7 +15,7 @@ Definición ...
 - [Pruebas de integración](qa.md#pruebas-de-integración)
 - [Pruebas de regresión](qa.md#pruebas-de-regresión)
 - [Pruebas de cordura](qa.md#pruebas-de-cordura)
-- [Pruebas de aceptación](qa.md#pruebas-de-aceptación)
+- [Pruebas de aceptación (:heavy_check_mark:)](qa.md#pruebas-de-aceptación)
 
 > #### Pruebas No Funcionales
 - [Pruebas de carga (:heavy_check_mark:)](qa_no_funcional.md)

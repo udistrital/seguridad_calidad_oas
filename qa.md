@@ -9,11 +9,11 @@ Las pruebas unitarias son las que aseguran que cada línea del código desarroll
 Se  desarrollan pruebas que validen las reglas del negocio, los perfiles y permisos, funciones y cálculos específicos o controles de entrada en formularios.  
 
 
-### Prueba de humo
+### Pruebas de humo
 Las pruebas de humo se realizan para verificar si las funcionalidades más significativas de la aplicación funcionan o no. De forma que lo más básico del software se ejecute de forma correcta con pruebas sencillas y rápidas. Una prueba de humo esencial es la validación que los EndPoint a consumir estén activos.
 
 
-### Prueba de componentes
+### Pruebas de componentes
 Este tipo de pruebas se ejecutan de forma independiente o separada, el alcance de la prueba está limitado única y exclusivamente a un requerimiento pequeño  o historia de usuario o módulo en particular “el componente específico”; para comprobar que el resultado sea el requerido.
 
 ### Pruebas de integración
@@ -23,7 +23,7 @@ Este tipo de pruebas busca complementar el tipo de pruebas de componentes, ya qu
 Es normal que los desarrolladores modifiquen y mejoren las funcionalidades de su desarrollo por iteraciones, entregas o sprint. Por ello existe una gran posibilidad de que puedan causar ‘efectos’ inesperados en su comportamiento. Estas pruebas de regresión se realizan para asegurar que los cambios o adiciones no hayan alterado ni eliminado las funcionalidades existentes.   
 El objetivo de las pruebas de regresión es encontrar errores que puedan haber sido introducidos accidentalmente en la compilación existente y así garantizar que los errores eliminados continúen así.
 
-### Prueba de cordura
+### Pruebas de cordura
 Si tienes una compilación con modificaciones menores, en vez de ejecutar las pruebas de regresión, realizamos una prueba de cordura.   
 Con ella podemos determinar que las modificaciones realmente hayan solucionado los problemas. Y que dichas correcciones no hayan generado ningún problema. Usualmente estas pruebas son subpruebas de la de ‘Regresión’  ya que están relacionadas con los cambios realizados en el producto.
 

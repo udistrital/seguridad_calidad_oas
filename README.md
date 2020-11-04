@@ -9,8 +9,8 @@ Definición ...
 ### Aseguramiento de la Calidad (QA)
 
 > #### Pruebas Funcionales
-- [Pruebas unitarias](qa.md#prueba-de-componentes)
-- [Pruebas de humo](qa.md#prueba-de-componentes)
+- [Pruebas unitarias](qa.md#pruebas-unitarias)
+- [Pruebas de humo](qa.md#prueba-de-humo)
 - [Pruebas de componentes](qa.md#prueba-de-componentes)
 - [Pruebas de integración](qa.md#pruebas-de-integración)
 - [Pruebas de regresión](qa.md#pruebas-de-regresión)

@@ -27,10 +27,11 @@ Definición ...
 ### Seguridad Informática
 
 > #### Evaluacion de vulnerabilidades
-- [Evaluacion de vulnerabilidades](seguridad.md)
-- [Análisis de codigo estático](seguridad.md)
+- [Evaluacion de vulnerabilidades](seguridad.md#evaluacion-de-vulnerabilidades)
+- [Análisis de codigo estático](seguridad.md#anállisis-de-código-estatico)
+- [Implementar evaluaciones periódicas](seguridad.md#implementar-evaluaciones-periódicas-evaluacion-de-vulnerabilidades)
 
 > #### Pentesting (Penetration Testing)
-- [Que es el Pentesting](seguridad.md)
-- [Fases de un Pentesting](seguridad.md)
-- [Por qué Realizar Pentesting](seguridad.md)
+- [Que es el Pentesting](seguridad.md#pentesting)
+- [Fases de un Pentesting](seguridad.md#fases-de-un-pentesting)
+- [Por qué Realizar Pentesting](seguridad.md#por-qué-realizar-pentesting)

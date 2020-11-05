@@ -8,7 +8,7 @@ Una evaluación de la vulnerabilidad es una evaluación automática diseñada pa
 
 Las evaluaciones de vulnerabilidad se realizan utilizando nuestros sistemas y herramientas de escaneo estándar del sector. La realización de escaneos de vulnerabilidad ayudará a garantizar que cualquier vulnerabilidad existente en su sistema sea identificada y tratada inmediatamente, reduciendo el riesgo a la exposición de su organización a un nivel aceptable.
 
-### Implementar evaluaciones periódicas Evaluacion de vulnerabilidades
+### Implementar evaluaciones periódicas de "Evaluacion de vulnerabilidades"
 Las evaluaciones se pueden llevar a cabo de forma periódica para garantizar que reciba actualizaciones continuas sobre su posición de seguridad de la información y para que continúe cumpliendo con los estándares del sector cuando sea aplicable
 
 ### Anállisis de código estatico
@@ -48,5 +48,5 @@ El Gobierno nacional ha realizados grandes esfuerzos para alinear a las entidade
 
 
 ## Tomado de:
-[ Pentesting con Kali - 0xWord]()
+[ Pentesting con Kali - 0xWord]()   
 [Evaluación de la vulnerabilidad](https://www.bsigroup.com/es-ES/Nuestros-servicios/Resiliencia-de-la-informacion-y-ciberseguridad/Servicios/Evaluacion-de-la-vulnerabilidad/#:~:text=Una%20evaluaci%C3%B3n%20de%20la%20vulnerabilidad,de%20TI%20de%20una%20organizaci%C3%B3n.)

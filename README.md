@@ -30,5 +30,6 @@ Definición ...
 - [Implementar evaluaciones periódicas (:heavy_check_mark:)](seguridad.md#implementar-evaluaciones-periódicas-de-evaluacion-de-vulnerabilidades)
 
 > #### Pentesting (Penetration Testing)
+- [Pentesting (:heavy_check_mark:)](seguridad.md#pentesting)
 - [Fases de un Pentesting (:heavy_check_mark:)](seguridad.md#fases-de-un-pentesting)
 - [Por qué Realizar Pentesting (:heavy_check_mark:)](seguridad.md#por-qué-realizar-pentesting)

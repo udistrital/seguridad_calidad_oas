@@ -2,8 +2,6 @@
 
 Definición ...
 
-- [Documento]()
-
 ## Contenido
 
 ### Aseguramiento de la Calidad (QA)
@@ -27,11 +25,10 @@ Definición ...
 ### Seguridad Informática
 
 > #### Evaluacion de vulnerabilidades
-- [Evaluacion de vulnerabilidades](seguridad.md#evaluacion-de-vulnerabilidades)
-- [Análisis de codigo estático](seguridad.md#anállisis-de-código-estatico)
-- [Implementar evaluaciones periódicas](seguridad.md#implementar-evaluaciones-periódicas-evaluacion-de-vulnerabilidades)
+- [Evaluacion de vulnerabilidades (:heavy_check_mark:)](seguridad.md#evaluacion-de-vulnerabilidades)
+- [Análisis de codigo estático (:heavy_check_mark:)](seguridad.md#anállisis-de-código-estatico)
+- [Implementar evaluaciones periódicas (:heavy_check_mark:)](seguridad.md#implementar-evaluaciones-periódicas-de-evaluacion-de-vulnerabilidades)
 
 > #### Pentesting (Penetration Testing)
-- [Que es el Pentesting](seguridad.md#pentesting)
-- [Fases de un Pentesting](seguridad.md#fases-de-un-pentesting)
-- [Por qué Realizar Pentesting](seguridad.md#por-qué-realizar-pentesting)
+- [Fases de un Pentesting (:heavy_check_mark:)](seguridad.md#fases-de-un-pentesting)
+- [Por qué Realizar Pentesting (:heavy_check_mark:)](seguridad.md#por-qué-realizar-pentesting)

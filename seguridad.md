@@ -12,7 +12,8 @@ Las evaluaciones de vulnerabilidad se realizan utilizando nuestros sistemas y he
 Las evaluaciones se pueden llevar a cabo de forma periódica para garantizar que reciba actualizaciones continuas sobre su posición de seguridad de la información y para que continúe cumpliendo con los estándares del sector cuando sea aplicable
 
 ### Anállisis de código estatico
-
+Durante el desarrollo de código (módulos, librerías, themes) es importante integrar herramientas objetivas que midan el estado del código y provean la información para conocer su calidad y de esta forma poder detectar y prevenir problemas: funciones duplicadas, métodos excesivamente complejos, código de baja calidad, estilo de codificación no estándar.   
+Estas pruebas son automatizadas en el sistema de integración continua (drone ci) y se ejecutan en cada nueva versión del software permitiendo disponer de un histórico de su evolución.
 
 ## Pentesting
 
@@ -50,3 +51,4 @@ El Gobierno nacional ha realizados grandes esfuerzos para alinear a las entidade
 ## Tomado de:
 [ Pentesting con Kali - 0xWord]()   
 [Evaluación de la vulnerabilidad](https://www.bsigroup.com/es-ES/Nuestros-servicios/Resiliencia-de-la-informacion-y-ciberseguridad/Servicios/Evaluacion-de-la-vulnerabilidad/#:~:text=Una%20evaluaci%C3%B3n%20de%20la%20vulnerabilidad,de%20TI%20de%20una%20organizaci%C3%B3n.)
+[Análisis de códico estatico](https://metadrop.net/metodologia/calidad-codigo-analisis-estatico-codigo)

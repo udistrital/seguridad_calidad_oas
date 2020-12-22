@@ -5,12 +5,16 @@ En esta sección se encuentran los lineamientos que todos los desarrollos de sof
 Busca ejecutar, revisar y retroalimentar el comportameinto previamente diseñado en el aplicacito.
 
 ### Pruebas unitarias
-Las pruebas unitarias son las que aseguran que cada línea del código desarrollado en un componente brinde los resultados adecuados.
+Las pruebas unitarias son las que aseguran que cada línea del código desarrollado en un componente, requerimiento, necesida brinde los resultados adecuados.  
+sirven para garantizar que los componentes ya finalizados y que contengan sus respectivas pruebas; puedan ser revisados ante un nuevo requerimiento o modificaciones dependiente. Al integrar los nuevos requerimientos, si las pruebas unitarias son satisfactorias se podría asegurar que las funcionalidades primarias siguen siendo funcionales y que los nuevos requerimientos no afectaron la lógica predecesora.  
+
 Se  desarrollan pruebas que validen las reglas del negocio, los perfiles y permisos, funciones y cálculos específicos o controles de entrada en formularios.  
 
 
 ### Pruebas de humo
-Las pruebas de humo se realizan para verificar si las funcionalidades más significativas de la aplicación funcionan o no. De forma que lo más básico del software se ejecute de forma correcta con pruebas sencillas y rápidas. Una prueba de humo esencial es la validación que los EndPoint a consumir estén activos.
+Las pruebas de humo se realizan para verificar si las funcionalidades más significativas de la aplicación funcionan o no. De forma que lo más básico del software se ejecute de forma correcta con pruebas sencillas y rápidas.   
+En entornos productivos, son de gran utilidad para identificar rápidamente una falla o caída de un servicio dentro de una arquitectura orientado a microservicios.  
+Por Ejemplo: Una prueba de humo esencial es la validación de que los EndPoint a consumir dentro de un api_mid “Middleware” se encuentren activos o respondiendo un estado 200 en sus solicitudes.
 
 
 ### Pruebas de componentes

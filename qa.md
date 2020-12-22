@@ -6,8 +6,7 @@ Busca ejecutar, revisar y retroalimentar el comportameinto previamente diseñado
 
 ### Pruebas unitarias
 Las pruebas unitarias son las que aseguran que cada línea del código desarrollado en un componente, requerimiento, necesida brinde los resultados adecuados.  
-sirven para garantizar que los componentes ya finalizados y que contengan sus respectivas pruebas; puedan ser revisados ante un nuevo requerimiento o modificaciones dependiente. Al integrar los nuevos requerimientos, si las pruebas unitarias son satisfactorias se podría asegurar que las funcionalidades primarias siguen siendo funcionales y que los nuevos requerimientos no afectaron la lógica predecesora.  
-
+Sirven para garantizar que los componentes ya finalizados y que contengan sus respectivas pruebas; puedan ser revisados ante un nuevo requerimiento o modificaciones dependiente. Al integrar los nuevos requerimientos, si las pruebas unitarias son satisfactorias se podría asegurar que las funcionalidades primarias siguen siendo funcionales y que los nuevos requerimientos no afectaron la lógica predecesora.  
 Se  desarrollan pruebas que validen las reglas del negocio, los perfiles y permisos, funciones y cálculos específicos o controles de entrada en formularios.  
 
 
